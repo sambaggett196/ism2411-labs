@@ -24,3 +24,22 @@ Each script is standalone. Open a terminal and run:
 ```
 python week07/functions.py
 ```
+
+## Reflection
+
+# ------1------
+```
+fc902ad (HEAD -> main, origin/main, origin/HEAD) add module 7 functions: calculate_tax, apply discount, final_price
+7ffd501 add README with module listing and run instructions
+bbc74bc add .gitignore for Python and OS files
+766536e add .gitignore for Python and OS files
+8098205 add initial sales analysis script
+d81eaea first commit
+```
+# These commit messages show that the person is very thorough and organized when working. They pay attention to detail and keep things in order so it is easy to revist and review previous work.
+
+# ------2-------
+# Using Git allows me to continously edit the code without worry that I will lose the previous code forever. I can git commit my working code and add a message to describe what I changed in the code that time around, then go back to previous versions of the code if a bug occurs. Now I can alter my code without always commenting out old code to save just in case.
+
+# -------3-------
+# I would add a .vscode/ file to hold editor settings that are personalized to me. This file does not need to be tracked because it just contains machine specific paths and custom VS code settings. 
